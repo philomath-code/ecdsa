@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/philomath/.dotnet/store/|arch|/|tfm|",
+      "/home/philomath/.nuget/packages"
+    ]
+  }
+}

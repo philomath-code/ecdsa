@@ -1,0 +1,12 @@
+C:\Users\LCX3BCX\Documents\ecdsa\ecdsa\bin\Debug\net5.0\ecdsa.deps.json
+C:\Users\LCX3BCX\Documents\ecdsa\ecdsa\bin\Debug\net5.0\ecdsa.dll
+C:\Users\LCX3BCX\Documents\ecdsa\ecdsa\bin\Debug\net5.0\ref\ecdsa.dll
+C:\Users\LCX3BCX\Documents\ecdsa\ecdsa\bin\Debug\net5.0\ecdsa.pdb
+C:\Users\LCX3BCX\Documents\ecdsa\ecdsa\obj\Debug\net5.0\ecdsa.csproj.AssemblyReference.cache
+C:\Users\LCX3BCX\Documents\ecdsa\ecdsa\obj\Debug\net5.0\ecdsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LCX3BCX\Documents\ecdsa\ecdsa\obj\Debug\net5.0\ecdsa.AssemblyInfoInputs.cache
+C:\Users\LCX3BCX\Documents\ecdsa\ecdsa\obj\Debug\net5.0\ecdsa.AssemblyInfo.cs
+C:\Users\LCX3BCX\Documents\ecdsa\ecdsa\obj\Debug\net5.0\ecdsa.csproj.CoreCompileInputs.cache
+C:\Users\LCX3BCX\Documents\ecdsa\ecdsa\obj\Debug\net5.0\ecdsa.dll
+C:\Users\LCX3BCX\Documents\ecdsa\ecdsa\obj\Debug\net5.0\ref\ecdsa.dll
+C:\Users\LCX3BCX\Documents\ecdsa\ecdsa\obj\Debug\net5.0\ecdsa.pdb

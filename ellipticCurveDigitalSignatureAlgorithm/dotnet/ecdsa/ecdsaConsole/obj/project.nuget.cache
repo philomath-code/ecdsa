@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ISRueEav3CuKhLhBtHACQZpJ58YHM5Mr1CKvG0KyPQNs51l1H6JExnxyDJlhihxjEa3Wy2FqZuhsHNfNX8FbFQ==",
+  "success": true,
+  "projectFilePath": "/home/philomath/Documents/github/ellipticCurveDigitalSignatureAlgorithm/dotnet/ecdsa/ecdsaConsole/ecdsaConsole.csproj",
+  "expectedPackageFiles": [
+    "/home/philomath/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/home/philomath/.nuget/packages/microsoft.identitymodel.logging/6.12.2/microsoft.identitymodel.logging.6.12.2.nupkg.sha512",
+    "/home/philomath/.nuget/packages/microsoft.identitymodel.tokens/6.12.2/microsoft.identitymodel.tokens.6.12.2.nupkg.sha512",
+    "/home/philomath/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/philomath/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
